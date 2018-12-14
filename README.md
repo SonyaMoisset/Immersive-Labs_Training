@@ -24,7 +24,7 @@ Points. 2660
 - Encoding and Encryption
    - Symmetric Key Encryption | 40 points | CREST
 - Social Engineering
-   - S£ Security Permissions | 100 points
+   - S3 Security Permissions | 100 points
    - Accounting and Audit | 10 points
 - Common Tool Sets
    - Mimikatz Primer | 200 points
