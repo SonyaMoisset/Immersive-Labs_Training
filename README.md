@@ -1,4 +1,8 @@
-# Immersive-Labs_Training
+# Immersive Labs
+[Profile](https://main.immersivelabs.online/profile/smoisset)
+
+Labs completed. 26
+Points. 2660   
 
 ## Knowledge
 - Using Immersive Labs
