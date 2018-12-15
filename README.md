@@ -1,8 +1,8 @@
 # Immersive Labs
 [Profile](https://main.immersivelabs.online/profile/smoisset)
 
-Labs completed. 26   
-Points. 2660   
+Labs completed. 27   
+Points. 2860   
 
 ## Knowledge
 - Using Immersive Labs
@@ -30,6 +30,8 @@ Points. 2660
    - Mimikatz Primer | 200 points
 - Scanning
    - WPScan | 200 points
+- Metasploit
+   - Msfvenom | 200 points
 - Burp Suite
    - Burp Suite: An Introduction | 100 points
    - Burp Suite: HTTPS | 100 points
