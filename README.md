@@ -1,8 +1,8 @@
 # Immersive Labs
 [Profile](https://main.immersivelabs.online/profile/smoisset)
 
-Labs completed. 27   
-Points. 2860   
+Labs completed. 28   
+Points. 2960   
 
 ## Knowledge
 - Using Immersive Labs
@@ -35,6 +35,8 @@ Points. 2860
 - Burp Suite
    - Burp Suite: An Introduction | 100 points
    - Burp Suite: HTTPS | 100 points
+- PowerShell
+   - PowerShell: Episode 1 | 100 points
 
 ## Immersive Originals
 - Exploiting the Cyber Kill Chain
