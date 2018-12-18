@@ -1,8 +1,8 @@
 # Immersive Labs
 [Profile](https://main.immersivelabs.online/profile/smoisset)
 
-Labs completed. 29   
-Points. 3160   
+Labs completed. 30   
+Points. 3360   
 
 ## Knowledge
 - Using Immersive Labs
@@ -41,6 +41,7 @@ Points. 3160
 ## Techniques
 - Web App Hacking
    - Cross-Site Scripting (XSS) - Reflected | 200 points
+   - Directory Traversal | 200 points
 
 ## Immersive Originals
 - Exploiting the Cyber Kill Chain
