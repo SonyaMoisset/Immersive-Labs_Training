@@ -1,8 +1,8 @@
 # Immersive Labs
 [Profile](https://main.immersivelabs.online/profile/smoisset)
 
-Labs completed. 30   
-Points. 3360   
+Labs completed. 31   
+Points. 3460   
 
 ## Knowledge
 - Using Immersive Labs
@@ -48,3 +48,4 @@ Points. 3360
    - Cyber Kill Chain: Reconnaissance | 200 points
    - Cyber Kill Chain: Weaponisation | 200 points
    - Cyber Kill Chain: Delivery | 200 points
+   - Cyber Kill Chain: Exploitation | 100 points
